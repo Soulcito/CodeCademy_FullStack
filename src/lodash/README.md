@@ -32,7 +32,7 @@ If you get stuck during this project, check out the project walkthrough video wh
 ## FOR TEST
 
 ```
-  node lodash/test/method.js
+  node src/lodash/test/method.js
 ```
 
 replace method by a valid method from lodash

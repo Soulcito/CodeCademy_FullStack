@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(243, 231, 231);
+}
+
+h2 {
+  color: blueviolet;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.mark {
+  font-family: monospace;
+  background-color: blanchedalmond;
+}
+
+table {
+  border: rgb(245, 19, 234) solid 3px;
+}
+
+table > thead {
+  background-color: rgb(247, 111, 240);
+}
+
+td {
+  border-top: rgb(245, 19, 234) solid 1px;
+  padding-right: 10px;
+}
